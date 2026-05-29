@@ -15,3 +15,4 @@ add comment=Anilton mac-address=18:67:EF:AF:EE:60
 add comment="Tiago Sal" mac-address=E8:5A:8B:E1:BD:45
 add comment=Stefanny mac-address=E8:98:EE:9C:F4:EA
 add comment=Adriano mac-address=30:E0:4F:4E:E1:1D
+add comment="Luciano Simeao" mac-address=80:54:2d:03:5f:87
