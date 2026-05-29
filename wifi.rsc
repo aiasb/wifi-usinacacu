@@ -1,9 +1,9 @@
 /interface wireless access-list
-add comment="S24 Aias TI" interface=wlan1 mac-address=80:54:2D:03:60:5F
-add comment="Celular 1047" interface=wlan1 mac-address=D8:68:A0:96:84:1C
-add comment=Vinicius interface=wlan1 mac-address=E4:AA:E4:1E:F1:01
-add comment=Renner interface=wlan1 mac-address=C8:1F:E8:07:8B:96
-add comment="Not Vinicius" interface=wlan1 mac-address=9C:67:D6:60:72:FF
+add comment="S24 Aias TI" mac-address=80:54:2D:03:60:5F
+add comment="Celular 1047" mac-address=D8:68:A0:96:84:1C
+add comment=Vinicius mac-address=E4:AA:E4:1E:F1:01
+add comment=Renner mac-address=C8:1F:E8:07:8B:96
+add comment="Not Vinicius" mac-address=9C:67:D6:60:72:FF
 add comment=Tablet mac-address=D8:08:31:71:B6:36
 add comment=Tablet mac-address=D8:08:31:71:B6:3A
 add comment=Tablet mac-address=D8:08:31:71:B6:3C
