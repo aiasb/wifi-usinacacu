@@ -17,3 +17,4 @@ add comment=Stefanny mac-address=E8:98:EE:9C:F4:EA
 add comment=Adriano mac-address=30:E0:4F:4E:E1:1D
 add comment="Luciano Simeao" mac-address=80:54:2d:03:5f:87
 add comment="Gabriel Geo" mac-address=B8:93:D4:E3:8A:09
+add comment=Dalisson mac-address=A8:6A:86:0A:AE:C0
