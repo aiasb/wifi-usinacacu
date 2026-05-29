@@ -12,6 +12,6 @@ add comment=Tablet mac-address=D8:08:31:71:B6:88
 add comment=Tablet mac-address=D8:08:31:71:B6:8E
 add comment=Lubaka mac-address=48:87:59:30:2E:5B
 add comment=Anilton mac-address=18:67:EF:AF:EE:60
-add comment="Tiago Salom\E3o" mac-address=E8:5A:8B:E1:BD:45
+add comment="Tiago Sal" mac-address=E8:5A:8B:E1:BD:45
 add comment=Stefanny mac-address=E8:98:EE:9C:F4:EA
 add comment=Adriano mac-address=30:E0:4F:4E:E1:1D
