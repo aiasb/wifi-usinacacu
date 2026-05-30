@@ -19,3 +19,4 @@ add comment="Luciano Simeao" mac-address=80:54:2d:03:5f:87
 add comment="Gabriel Geo" mac-address=B8:93:D4:E3:8A:09
 add comment="Dalisson01" mac-address=A8:6A:86:0A:AE:C0
 add comment="NOT Guilherme" mac-address=00:93:37:46:07:7B
+add comment="MAC Teste" mac-address=E4:B9:7A:F9:A3:D0
