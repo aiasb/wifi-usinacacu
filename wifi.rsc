@@ -23,3 +23,4 @@ add comment="Clesinho" mac-address=08:aa:55:24:03:1e
 add comment="José Olimpio" mac-address=fc:43:45:8a:42:74
 add comment="Woshynton Geo" mac-address=88:2f:92:13:e0:3c
 add comment="Andre Lider" mac-address=58:B9:65:5A:4E:AE
+add comment="Vinicius Oliveira Geo" mac-address=2C:32:6A:78:DC:92
