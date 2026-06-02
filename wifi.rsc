@@ -24,3 +24,4 @@ add comment="José Olimpio" mac-address=fc:43:45:8a:42:74
 add comment="Woshynton Geo" mac-address=88:2f:92:13:e0:3c
 add comment="Andre Lider" mac-address=58:B9:65:5A:4E:AE
 add comment="Vinicius Oliveira Geo" mac-address=2C:32:6A:78:DC:92
+add comment="Matheus Lider" mac-address=98:D7:42:90:13:A6
