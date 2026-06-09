@@ -27,3 +27,4 @@ add comment="Vinicius Oliveira Geo" mac-address=2C:32:6A:78:DC:92
 add comment="Matheus Lider" mac-address=98:D7:42:90:13:A6
 add comment="Asael" mac-address=64:1B:2F:B9:F0:DF
 add comment="Jean" mac-address=B4:19:74:EE:77:1C
+add comment="Kairo" mac-address=ec:b5:50:10:cc:81
