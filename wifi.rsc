@@ -28,3 +28,5 @@ add comment="Matheus Lider" mac-address=98:D7:42:90:13:A6
 add comment="Asael" mac-address=64:1B:2F:B9:F0:DF
 add comment="Jean" mac-address=B4:19:74:EE:77:1C
 add comment="Kairo" mac-address=ec:b5:50:10:cc:81
+add comment="Jeferson F1 I" mac-address=30:50:ce:73:47:e2
+add comment="Jeferson F1 II" mac-address=d8:93:d4:7e:ea:56
