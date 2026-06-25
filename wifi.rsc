@@ -33,3 +33,4 @@ add comment="Jeferson F1 II" mac-address=d8:93:d4:7e:ea:56
 add comment="Vincius Lider" mac-address=64:1B:2F:23:C0:79
 add comment="Manoel" mac-address=fc:43:45:8a:42:74
 add comment="Edson Jr" mac-address=48:b8:a3:60:c5:52
+add comment="Nauberto" mac-address=E4:F3:C4:D2:6B:E2
