@@ -35,7 +35,7 @@ add comment="Manoel" mac-address=fc:43:45:8a:42:74
 add comment="Edson Jr" mac-address=48:b8:a3:60:c5:52
 add comment="Nauberto" mac-address=E4:F3:C4:D2:6B:E2
 add comment="Hugo" mac-address=B0:9C:63:BF:91:66
-add comment="Teste1" mac-address=E0:92:5C:C5:D6:E7
 add comment="Nauberto" mac-address=E4:F3:C4:D2:6B:E2
 add comment="Skin" mac-address=64:1B:2F:DC:47:63
 add comment="Cleverson" mac-address=80:54:2D:32:EA:D3
+add comment="Marcelo F4" mac-address=6C:1F:8A:A2:89:D4
