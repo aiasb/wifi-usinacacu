@@ -21,7 +21,6 @@ add comment="Dalisson01" mac-address=A8:6A:86:0A:AE:C0
 add comment="NOT Guilherme" mac-address=00:93:37:46:07:7B
 add comment="Clesinho" mac-address=08:aa:55:24:03:1e
 add comment="José Olimpio" mac-address=fc:43:45:8a:42:74
-add comment="Woshynton Geo" mac-address=88:2f:92:13:e0:3c
 add comment="Andre Lider" mac-address=58:B9:65:5A:4E:AE
 add comment="Vinicius Oliveira Geo" mac-address=2C:32:6A:78:DC:92
 add comment="Matheus Lider" mac-address=98:D7:42:90:13:A6
@@ -39,3 +38,4 @@ add comment="Nauberto" mac-address=E4:F3:C4:D2:6B:E2
 add comment="Skin" mac-address=64:1B:2F:DC:47:63
 add comment="Cleverson" mac-address=80:54:2D:32:EA:D3
 add comment="Marcelo F4" mac-address=6C:1F:8A:A2:89:D4
+add comment="Whoshyngton" mac-address=88:2f:92:13:e0:3c
