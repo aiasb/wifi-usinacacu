@@ -40,3 +40,4 @@ add comment="Skin" mac-address=64:1B:2F:DC:47:63
 add comment="Cleverson" mac-address=80:54:2D:32:EA:D3
 add comment="Marcelo F4" mac-address=6C:1F:8A:A2:89:D4
 add comment="Whoshyngton" mac-address=88:2f:92:13:e0:3c
+add comment="Geferson Anjos" mac-address=d8:93:d4:7e:ea:56
