@@ -44,4 +44,4 @@ add comment="Geferson Anjos" mac-address=d8:93:d4:7e:ea:56
 add comment="Heulaine lider" mac-address=C4:5B:AC:E6:02:10
 add comment="David Coordenador" mac-address=78:d8:40:e4:ed:1a
 add comment="Ruiter" mac-address=F0:A3:5A:5D:34:1C
-add comment="Nikolly SESMT" mac-address=20:3b:34:57:f7:6e
+
